@@ -10,9 +10,9 @@
   
 </p>
 <br><br>
-<h1>Main Project File</h1>
+<h1>Main Project File and Docs</h1>
 <p>
-  
+  <a href="https://docs.google.com/document/d/10buoGfNYLeIJsO_bqzLTAbT12ZxhrlZGzGfrTlieAII/edit?usp=sharing">Overview, Ideas, and Script</a>
 </p>
 <br><br>
 <h1>Assets</h1>
